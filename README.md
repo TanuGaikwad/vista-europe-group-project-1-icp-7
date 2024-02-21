@@ -12,6 +12,4 @@ Languages used in the this website is HTML, CSS and we are planning to implement
 ## Contributers 
 <a href="https://github.com/sahilPatil20/vista-europe-group-project-1-icp-7/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sahilPatil20/vista-europe-group-project-1-icp-7" />
-
 </a>
-
